@@ -1,10 +1,13 @@
 # zig
-El repositorio en GitHub "algorithms-and-data-structures-zig" de Joel-Ostos actualmente no tiene una descripción detallada en su archivo README. Para mejorar la comprensión y utilidad del repositorio, es importante proporcionar una descripción clara y concisa en el README. Aquí tienes un ejemplo de texto que podrías usar:
-
 ---
 
 # Algorithms and Data Structures in Zig
-
+Como ejecutar los códigos:
+En la terminal:
+```
+zig run nombre.zig
+```
+Esto deberá hacerse en cada archivo, zig run compila y ejecuta inmediatamente.
 ## Overview
 
 Este repositorio es una colección integral de algoritmos y estructuras de datos implementados en el lenguaje de programación Zig. Diseñado tanto para educación como para uso práctico, este proyecto sirve como un recurso valioso para programadores que buscan profundizar en el aprendizaje de Zig y comprender mejor las implementaciones de algoritmos y estructuras de datos fundamentales.
