@@ -37,10 +37,14 @@ Este repositorio es una colección integral de algoritmos y estructuras de datos
 ```
 bfs.zig es una implementación del algoritmo de busqueda en profundidad que soluciona el problema encontrado en cses llamado labyrinth.
 
-[![Nombre del Video](https://www.youtube.com/watch?v=kyMGwf0AepE)]
+[![BFS](http://img.youtube.com/vi/kyMGwf0AepE/0.jpg)](https://www.youtube.com/watch?v=kyMGwf0AepE)
 
 binarySearch es un código que realiza busqueda binaria sobre un arreglo ordenado.
 heap_sort.zig provee la implementación de heap_sort algorithm.
+
+[![HeapSort](http://img.youtube.com/vi/a6UPTZLwZ-M/0.jpg)](https://www.youtube.com/watch?v=a6UPTZLwZ-M)
+
+
 insertion_sort.zig provee la implementación de insertion_sort algorithm.
 Los archivos siguientes son implementaciones de las estructuras de datos:
 1. linkedlist.zig
